@@ -1,4 +1,4 @@
-# UE5ClangCodeCoverage
+# UE5 Clang Code Coverage
 This is a guide that explains how to use the clang code coverage for windows in UE5 (Version 5.5.3 was used).
 
 ## Prerequisites
